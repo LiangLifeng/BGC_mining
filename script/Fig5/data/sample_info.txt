@@ -1,0 +1,4 @@
+Sample	group
+Marine	A
+Freshwater	A
+Terrestrialr	B

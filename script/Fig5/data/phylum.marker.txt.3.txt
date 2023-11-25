@@ -1,0 +1,15 @@
+phylum	node	pos
+Acidobacteriota	2111	0.5
+Actinobacteriota	2112	0.5
+Bacteroidota	2113	0.5
+Bdellovibrionota	2114	1
+Chloroflexota	2115	0.5
+Cyanobacteria	2116	1.5
+Desulfobacterota	2117	0.5
+Firmicutes_A	2118	0.5
+Firmicutes	2119	0.5
+Marinisomatota	2120	0.5
+Myxococcota	2121	1
+Planctomycetota	2122	0.5
+Proteobacteria	2123	0.5
+Verrucomicrobiota	2124	0.5
